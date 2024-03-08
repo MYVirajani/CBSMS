@@ -1,0 +1,44 @@
+F:\CBA_menu\Menu\bin\Debug\net6.0\CBSMS.exe
+F:\CBA_menu\Menu\bin\Debug\net6.0\CBSMS.deps.json
+F:\CBA_menu\Menu\bin\Debug\net6.0\CBSMS.runtimeconfig.json
+F:\CBA_menu\Menu\bin\Debug\net6.0\CBSMS.dll
+F:\CBA_menu\Menu\bin\Debug\net6.0\CBSMS.pdb
+F:\CBA_menu\Menu\obj\Debug\net6.0\CBSMS.csproj.AssemblyReference.cache
+F:\CBA_menu\Menu\obj\Debug\net6.0\CBSMS.GeneratedMSBuildEditorConfig.editorconfig
+F:\CBA_menu\Menu\obj\Debug\net6.0\CBSMS.AssemblyInfoInputs.cache
+F:\CBA_menu\Menu\obj\Debug\net6.0\CBSMS.AssemblyInfo.cs
+F:\CBA_menu\Menu\obj\Debug\net6.0\CBSMS.csproj.CoreCompileInputs.cache
+F:\CBA_menu\Menu\obj\Debug\net6.0\CBSMS.dll
+F:\CBA_menu\Menu\obj\Debug\net6.0\refint\CBSMS.dll
+F:\CBA_menu\Menu\obj\Debug\net6.0\CBSMS.pdb
+F:\CBA_menu\Menu\obj\Debug\net6.0\CBSMS.genruntimeconfig.cache
+F:\CBA_menu\Menu\obj\Debug\net6.0\ref\CBSMS.dll
+F:\CBSMS\Application\bin\Debug\net6.0\CBSMS.exe
+F:\CBSMS\Application\bin\Debug\net6.0\CBSMS.deps.json
+F:\CBSMS\Application\bin\Debug\net6.0\CBSMS.runtimeconfig.json
+F:\CBSMS\Application\bin\Debug\net6.0\CBSMS.dll
+F:\CBSMS\Application\bin\Debug\net6.0\CBSMS.pdb
+F:\CBSMS\Application\obj\Debug\net6.0\CBSMS.csproj.AssemblyReference.cache
+F:\CBSMS\Application\obj\Debug\net6.0\CBSMS.GeneratedMSBuildEditorConfig.editorconfig
+F:\CBSMS\Application\obj\Debug\net6.0\CBSMS.AssemblyInfoInputs.cache
+F:\CBSMS\Application\obj\Debug\net6.0\CBSMS.AssemblyInfo.cs
+F:\CBSMS\Application\obj\Debug\net6.0\CBSMS.csproj.CoreCompileInputs.cache
+F:\CBSMS\Application\obj\Debug\net6.0\CBSMS.dll
+F:\CBSMS\Application\obj\Debug\net6.0\refint\CBSMS.dll
+F:\CBSMS\Application\obj\Debug\net6.0\CBSMS.pdb
+F:\CBSMS\Application\obj\Debug\net6.0\CBSMS.genruntimeconfig.cache
+F:\CBSMS\Application\obj\Debug\net6.0\ref\CBSMS.dll
+F:\University\3rd Semester\Programming Project\CBSMS\Application\bin\Debug\net6.0\CBSMS.exe
+F:\University\3rd Semester\Programming Project\CBSMS\Application\bin\Debug\net6.0\CBSMS.deps.json
+F:\University\3rd Semester\Programming Project\CBSMS\Application\bin\Debug\net6.0\CBSMS.runtimeconfig.json
+F:\University\3rd Semester\Programming Project\CBSMS\Application\bin\Debug\net6.0\CBSMS.dll
+F:\University\3rd Semester\Programming Project\CBSMS\Application\bin\Debug\net6.0\CBSMS.pdb
+F:\University\3rd Semester\Programming Project\CBSMS\Application\obj\Debug\net6.0\CBSMS.GeneratedMSBuildEditorConfig.editorconfig
+F:\University\3rd Semester\Programming Project\CBSMS\Application\obj\Debug\net6.0\CBSMS.AssemblyInfoInputs.cache
+F:\University\3rd Semester\Programming Project\CBSMS\Application\obj\Debug\net6.0\CBSMS.AssemblyInfo.cs
+F:\University\3rd Semester\Programming Project\CBSMS\Application\obj\Debug\net6.0\CBSMS.csproj.CoreCompileInputs.cache
+F:\University\3rd Semester\Programming Project\CBSMS\Application\obj\Debug\net6.0\CBSMS.dll
+F:\University\3rd Semester\Programming Project\CBSMS\Application\obj\Debug\net6.0\refint\CBSMS.dll
+F:\University\3rd Semester\Programming Project\CBSMS\Application\obj\Debug\net6.0\CBSMS.pdb
+F:\University\3rd Semester\Programming Project\CBSMS\Application\obj\Debug\net6.0\CBSMS.genruntimeconfig.cache
+F:\University\3rd Semester\Programming Project\CBSMS\Application\obj\Debug\net6.0\ref\CBSMS.dll
